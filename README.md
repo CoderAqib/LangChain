@@ -1,2 +1,2 @@
-# LangChain
-This repository contains all the LangChain projects I have done.
+# NewsResearchTool
+This repository contains News research tool created in LangChain.
